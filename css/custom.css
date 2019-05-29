@@ -140,8 +140,8 @@ a:focus .video-link-icon {
 
 
     .logo_intrace {
-        max-width:15%;
-        max-height: 15%;
+        max-width:10%;
+        max-height: 10%;
     }
 
 
@@ -162,6 +162,6 @@ a:focus .video-link-icon {
 
 @media (min-width: 768px) { 
     .logo_intrace {
-    max-width:20%;
-    max-height: 20%;
+    max-width:15%;
+    max-height: 15%;
 } }
